@@ -13,10 +13,10 @@ a {
   color: LimeGreen;
 }
 
-img {
+.poppy-image {
 transition: all 200ms;
 }
 
-img:hover {
+.poppy-image:hover {
 transform: scale(1.02)
 }
