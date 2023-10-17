@@ -12,3 +12,11 @@ p, h1, h2 {
 a {
   color: LimeGreen;
 }
+
+img {
+transition: all 200ms;
+}
+
+img:hover {
+transform: scale(1.02)
+}
